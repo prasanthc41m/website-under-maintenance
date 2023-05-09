@@ -1,6 +1,6 @@
 # Site Maintenance template
 
-This is a simple and elegent html template which will display the support email and footer automatically for any website. 
+This is a simple and elegent website under maintenance html template which will display the support email and footer automatically for any website. 
 
 Download to public folder
 
